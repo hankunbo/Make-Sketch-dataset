@@ -21,4 +21,6 @@ Clone the repo
 ```
 git clone https://github.com/hankunbo/Make-Sketch-dataset.git
 cd Make-Sketch-dataset
+
+python main1.py --img_paths your-imgpath 
 ```
