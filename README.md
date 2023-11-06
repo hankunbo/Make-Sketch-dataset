@@ -17,10 +17,15 @@ python setup.py install
 # If you have completed the above steps, Victory is within grasp
 ```
 
-Clone the repo
+## Clone the repo
 ```
 git clone https://github.com/hankunbo/Make-Sketch-dataset.git
 cd Make-Sketch-dataset
+```
+## dataset
+put your img dataset in your-imgpath 
 
+## train
+```
 python main1.py --img_paths your-imgpath 
 ```
