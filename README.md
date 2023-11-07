@@ -48,6 +48,6 @@ We provide some adjustable parameters for developers' convenience
 ```
 
 <p align="center">
-  <img width="1024" height="574" src="1699256570589.png"> 
+  <img width="768" height="432" src="1699256570589.png"> 
 </p>
 
