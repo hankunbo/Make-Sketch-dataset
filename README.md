@@ -46,3 +46,8 @@ We provide some adjustable parameters for developers' convenience
 --num_background 0
 #The number of lines used to fit in the background
 ```
+
+<p align="center">
+  <img width="1024" height="574" src="1699256570589.png"> 
+</p>
+
