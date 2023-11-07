@@ -1,6 +1,6 @@
 # Make-Sketch-dataset
-MAS
-makeing sketch dataset
+* MAS
+* makeing sketch dataset
 
 ## Install dependencies
 
@@ -21,6 +21,12 @@ python setup.py install
 ```
 git clone https://github.com/hankunbo/Make-Sketch-dataset.git
 cd Make-Sketch-dataset
+```
+## download mask parameter 
+```
+#download mask parameter from
+https://drive.google.com/uc?id=1ao1ovG1Qtx4b7EoskHXmi2E9rp5CHLcZ
+#and put it under U2Net_/saved_models
 ```
 ## dataset
 put your img dataset in your-imgpath 
